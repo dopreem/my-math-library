@@ -7,3 +7,7 @@ if (Array.isArray(a)) {
 return a+b
 }
  }
+
+ module.exports = {
+    sum,
+ }
